@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/VisitcountAPI/VisitcountAPI.csproj" />
+    <Project Path="src/VisitcountAspire/VisitcountAspire.AppHost/VisitcountAspire.AppHost.csproj" />
+    <Project Path="src/VisitcountAspire/VisitcountAspire.ServiceDefaults/VisitcountAspire.ServiceDefaults.csproj" />
+    <Project Path="src/VisitcountWeb/VisitcountWeb.csproj" />
+  </Folder>
+</Solution>
